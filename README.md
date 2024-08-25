@@ -3,4 +3,5 @@
 Redmagic X Tecno Custom Boot Animation
 
 Dev: Kanagawa Yamada
+
 Version: 1
